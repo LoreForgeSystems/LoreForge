@@ -1,1 +1,1 @@
-# LoreForge
+# NeuroForge
